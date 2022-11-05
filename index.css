@@ -1,0 +1,39 @@
+/* General Rules */
+* {
+	font-family: Helvetica, Arial, Sans-Serif;
+}
+
+/* Headings */
+h1 {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+h2 {
+	
+}
+
+header {
+	font-size: 100px;
+	font-color: yellow;
+	font-weight: bold;
+	background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*kknsib*_ga*OTIxMDQ3OTc2Mi4xNjYzNjQ0MDkz*_ga_3LRZM6TM9L*MTY2NzYxMDU5OS4yNi4xLjE2Njc2MTE5NDAuNTguMC4w");
+}
+
+.price {
+	color: blue;
+}
+
+.frameprice {
+	color: blue;
+}
+
+.paintprice {
+	color: blue;
+}
+
+p {
+	text-align: left;
+}
